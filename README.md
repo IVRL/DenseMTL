@@ -1,5 +1,8 @@
 # DenseMTL
 ## Dense Multitask Learning to Reconfigure Comics (CVPRW 2023) Oral
+
+[![DOI](https://zenodo.org/badge/782195265.svg)](https://zenodo.org/doi/10.5281/zenodo.11069132)
+
 Deblina Bhattacharjee, Sabine Süsstrunk, and Mathieu Salzmann
 
 ## Abstract:
